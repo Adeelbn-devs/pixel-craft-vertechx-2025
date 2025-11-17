@@ -1,4 +1,7 @@
-VertechX 13.0 - 'Pixel Craft' Competition Website
+<h1>VertechX 13.0 - 'Pixel Craft' Competition Website</h1>
+
+VIEW WEBSITE
+https://adeelbn-devs.github.io/pixel-craft-vertechx-2025/
 
 This website was developed for the 'Pixel Craft' (Web Development) competition, a core event of Vertechx 13.0, the National Level Inter-Collegiate Technical Fest hosted by MVJ College of Engineering.
 
@@ -91,6 +94,7 @@ Pro Tip: For the best experience (including live reloading), it is recommended t
 <img width="1901" height="941" alt="Screenshot 2025-11-17 053836" src="https://github.com/user-attachments/assets/f7b42f14-4aaa-4db9-a993-536b7f3e3833" />
 <img width="1907" height="943" alt="Screenshot 2025-11-17 053845" src="https://github.com/user-attachments/assets/028a89d9-5514-41c3-9385-586907f38471" />
 <img width="442" height="858" alt="image" src="https://github.com/user-attachments/assets/52264856-dd29-4693-bc12-c84f560ad92d" />
+
 
 
 
